@@ -1,0 +1,30 @@
+// Define color variables:
+Red= [30,100,0]
+orange= [70,100,2]
+yellow= [100,50,2]
+green= [100,0,100]
+blue= [20,0,100]
+// This variable controls the smallest distance at which a mouse will make the dots react
+mouseResponseThreshold = 5;
+
+// This variable controls how much the dots will rotate when interacting
+rotationForce = 10;
+
+// This variable controls how strongly the dots will try to return to their starting position
+friction = 0;
+
+message= Phoster
+
+<p>By:Joeseph and Evan</p>
+
+<body>
+ <p>Have you had that day when you just can't find a phone charger, and your phone is almost dead. Whell we have the perfect invention for you.</p>
+ </body>
+ 
+ message= The Phoster
+ 
+ drawName(message, letterColors);
+ 
+ Message= The Phoster is like a toaster but it charges your phone and when the Phoster pops your phone is charged
+ 
+ drawName(message, letterColors);
